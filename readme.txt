@@ -4,3 +4,4 @@
 4、false
 6、and
 5、or
+6、fei
