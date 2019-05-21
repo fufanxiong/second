@@ -7,3 +7,4 @@
 >>>>>>> Stashed changes
 
 5、DIFF REMOTE FILE
+6、MERGE SET
