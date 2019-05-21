@@ -1,2 +1,3 @@
-1¡¢text
-2¡¢clone
+1ï¿½ï¿½text
+2ï¿½ï¿½clone
+3ã€true
