@@ -6,4 +6,4 @@
 3、LOCAL SET
 >>>>>>> Stashed changes
 
-5、
+5、DIFF REMOTE FILE
