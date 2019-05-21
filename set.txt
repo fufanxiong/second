@@ -1,3 +1,7 @@
 1、SET TEXT
 2、SET TEST
+<<<<<<< Updated upstream
 4、REMOTE SET
+=======
+3、LOCAL SET
+>>>>>>> Stashed changes
